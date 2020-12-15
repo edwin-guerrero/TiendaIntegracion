@@ -1,0 +1,11 @@
+{
+  "language": "php"
+}
+
+{
+  "language": "php",
+  "os": [
+    "linux"
+  ],
+  "dist": "xenial"
+}
